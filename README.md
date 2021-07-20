@@ -25,8 +25,8 @@
   
   ##
  
-
+<!--
   ![Snake animation](https://github.com/leandro-sm/leandro-sm/blob/output/github-contribution-grid-snake.svg)
-
+-->
  
 </div>
