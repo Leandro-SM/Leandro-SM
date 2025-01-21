@@ -13,7 +13,8 @@
   <img align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="cat-icon" height="250" width="250" src="https://cdn-icons-png.flaticon.com/512/220/220202.png">
+  <img align="right" alt="cat-icon" height="250" width="250" src="https://cdn-icons-png.flaticon.com/512/1053/1053244.png">
+
 
   
 </div>
