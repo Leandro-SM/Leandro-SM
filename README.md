@@ -1,3 +1,1 @@
-### Olá! :cat2:
-
-  <img align="right" alt="cat-icon" height="250" width="250" src="biaoqing_011_icon-icons.com_75857.png">
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVqOTY3ZzB3MDVyYXE0bWRkc29rN2QwdXdpMmV2aGtub3FwN3ZkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" /></p>
