@@ -6,7 +6,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZpeGduZDVua3NhMTV6aGh4eThmM3hpemhmaTY0aXExZW9tbnBjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MQniBucHd7Y3noxgVl/giphy.gif" align="center">
+<img src="https://www.bloggif.com/tmp/5bf87700de14810d347340d89b43d6ff/text.gif?1772473540" align="center">
 
 
 <br>
