@@ -15,6 +15,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leandro-SM&theme=tokyonight" alt="mystreak"/>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/0Xmbtw7NhNiDnL4BWy5wDh)
+
 <br>
 
 
