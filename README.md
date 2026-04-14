@@ -16,3 +16,6 @@
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-medeiros-ti/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leandromedeiros0512@gmail.com)
+
+
+<img src="https://komarev.com/ghpvc/?username=Leandro-SM&color=brightgreen" alt="watching_count" />
