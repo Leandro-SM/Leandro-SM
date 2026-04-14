@@ -14,7 +14,6 @@
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leandro-SM&theme=tokyonight" alt="mystreak"/>
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default)]
 <br>
 
 
