@@ -14,7 +14,13 @@
 </p>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=AI+Automation+%7C+Local-First+LLMs;Power+Platform+%7C+Copilot+Studio;Python+%7C+LangChain+%7C+Ollama;Construindo+soluções+com+impacto+real)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=20&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=AI+Automation+%7C+Local-First+LLMs;Power+Platform+%7C+Copilot+Studio;Python+%7C+LangChain+%7C+Ollama;Construindo+soluções+com+impacto+real" 
+    alt="Typing animation"
+  />
+</p>
+</div>
 
 ---
 
