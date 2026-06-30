@@ -22,9 +22,11 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente desenvolvendo **agentes de IA locais** e **pipelines de automação** para processos corporativos.
-- 🤖 Experiência com arquiteturas **local-first**: Ollama, Whisper.cpp, Piper TTS, Chroma/Qdrant.
-- ⚡ Construo integrações entre **Copilot Studio, Power Automate, n8n** e LLMs para reduzir trabalho manual.
+- 🔭 Atualmente desenvolvendo **agentes de IA locais**, **Orquerstração Multiagente de Desenvolvimento** e **pipelines de automação** para processos corporativos.
+- 💻 Experiência Sólida com Infraestrutura, Redes, Active Directory
+- 🤖 Experiência com arquiteturas **local-first**: Ollama, Whisper.cpp, Piper TTS, Chroma/Qdrant. E com automação multi-flow utilizando **Power Plataform**
+- 👾 Python | Bash | Powershell para Scripting e Automação
+- ⚡ Construo integrações entre **Copilot Studio, Power Automate, n8n** e **LLMs** para reduzir trabalho manual e automatizar atendimento operacional.
 - 🎨 **Stable Diffusion (SD.1.5)** e prompt engineering para geração de imagens digitais e UGC.
 - 📚 RAG, multi-agentes, **LLMs locais, Power Platform, RAG, automações end-to-end** (local + cloud).
 
@@ -73,7 +75,7 @@
 
 ## 🌟 Áreas de Foco
 
-| Área | O que estou construindo |
+| Área | O que estou desenvolvendo |
 |------|------------------------|
 | 🤖 **IA Local** | Assistentes de voz e agentes com Ollama, Whisper e Piper |
 | ⚙️ **Automação** | Fluxos em Power Automate, n8n e integrações via API |
