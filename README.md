@@ -19,43 +19,6 @@
 
 ---
 
-## 🚀 About Me
-
-* 💻 Infrastructure, Networks & Active Directory
-* 🤖 AI Agents, Local LLMs, RAG & Multi-Agent Systems
-* ⚙️ Power Platform, Copilot Studio, n8n & API Integrations
-* 🐍 Python, Bash & PowerShell
-* 🎨 Stable Diffusion & AI-generated content
-
----
-
-## 🛠️ Stack
-
-### 🤖 AI & Automation
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge\&logo=huggingface\&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge\&logo=langchain\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge\&logo=yolo\&logoColor=white)
-
-### 💻 Languages & Scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell-white\&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=fff)
-
-### 🎨 Front-End & Data
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge\&logo=css\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-
 ## 📫 Contact
 
 <p align="left">
